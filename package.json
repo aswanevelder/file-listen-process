@@ -1,7 +1,7 @@
 {
   "name": "file-listen-process",
-  "version": "1.0.1",
-  "description": "File listener for reading and process files.",
+  "version": "1.0.2",
+  "description": "File listener for processing files.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
