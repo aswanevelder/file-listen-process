@@ -1,0 +1,30 @@
+{
+  "name": "file-listener",
+  "version": "1.0.0",
+  "description": "File listener for reading and manupulating files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanevelder/file-listener.git"
+  },
+  "keywords": [
+    "file",
+    "listener",
+    "manipulate"
+  ],
+  "author": "Anton Swanevelder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswanevelder/file-listener/issues"
+  },
+  "homepage": "https://github.com/aswanevelder/file-listener#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
