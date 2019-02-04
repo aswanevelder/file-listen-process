@@ -1,14 +1,14 @@
 # file-listen-process
 
-file-listen-process is a NodeJS library for listening for new files in a directory. Made to process files as they arrive by renaming them to a specific format, adding a timestamp and also has the ability to extract part of the file as a type.
+file-listen-process is a NodeJS library listen for files with a specific extension in a directory, rename and backup the file as it arrives. 
 
 Example:
 
 File arrive: STOCK.csv
 
-File renamed: _STOCK-1549004279028-0.dat
+File renamed: STOCK-1549004279028-0.dat
 
-File backup: _backup/_STOCK-1549004279028-0.dat
+File backup: _backup/STOCK-1549004279028-0.dat
 
 ## Installation
 
